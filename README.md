@@ -8,7 +8,7 @@
 
 您可以通过以下方式下载 **寒蝉锦书宋** 字体：
 - [从原始 ChillJinshuSong GitHub 仓库下载](https://github.com/Warren2060/ChillJinshuSong)
-- [直接从本项目下载](寒蝉锦书宋GB.zip)
+- **推荐：**[链接一键下载](https://assets.zigao.wang/img/%E5%AF%92%E8%9D%89%E9%94%A6%E4%B9%A6%E5%AE%8BGB.zip)
 
 ### 字体风格和字重 | Font Styles and Weights
 
