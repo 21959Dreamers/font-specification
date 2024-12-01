@@ -2,8 +2,10 @@
 
 此项目包含了 **寒蝉锦书宋** 字体，提供多种风格和字重，适用于不同的设计需求。下图展示了字体的各种风格，从 Light 到 Heavy，并包括 Text、Compact 和 Wide 的变体，以便于在品牌材料中保持一致的字体使用。
 
-![Font Specification](font-specification.png)
-![Font Specification](logirent.png)
+<div class="image-container">
+    <img src="font-specification.png" alt="Font Specification" style="width: 45%; margin-right: 20px;">
+    <img src="logirent.png" alt="Logirent" style="width: 45%;">
+</div>
 
 ### 下载选项 | Download Options
 
